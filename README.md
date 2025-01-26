@@ -1,3 +1,7 @@
 # flutter_splash_screen_practice
 
-A new Flutter project.
+https://pub.dev/packages/flutter_native_splash
+
+android 12は下
+
+https://pub.dev/packages/flutter_native_splash#android-12-support
